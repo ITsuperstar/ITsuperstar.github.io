@@ -1,0 +1,5 @@
+F:\VS2012 工作目录\Personal_Blog\Personal_Blog\bin\Personal_Blog.dll
+F:\VS2012 工作目录\Personal_Blog\Personal_Blog\bin\Personal_Blog.pdb
+F:\VS2012 工作目录\Personal_Blog\Personal_Blog\obj\Debug\Personal_Blog.csprojResolveAssemblyReference.cache
+F:\VS2012 工作目录\Personal_Blog\Personal_Blog\obj\Debug\Personal_Blog.dll
+F:\VS2012 工作目录\Personal_Blog\Personal_Blog\obj\Debug\Personal_Blog.pdb
